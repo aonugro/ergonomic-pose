@@ -2,7 +2,7 @@ ErgoPose-DeskWork Dataset
 
 A labeled dataset of seated human postures for machine learning classification, developed for ergonomic risk detection in desk-based environments (e.g., IT professionals, gamers).
 
-![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)
+![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15250540.svg)
 ![IEEE DataPort](https://img.shields.io/badge/IEEE-DataPort-blue)
 
 Description
