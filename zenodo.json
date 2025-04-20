@@ -1,0 +1,24 @@
+
+{
+  "title": "ErgoPose-DeskWork: Ergonomic Sitting Posture Dataset for Machine Learning Classification",
+  "upload_type": "dataset",
+  "publication_type": "dataset",
+  "description": "This dataset contains 200 labeled observations of seated posture, captured during desk-based tasks in July 2024 and annotated as 'ideal' or 'non-ideal' based on ISO 11226 and NIOSH ergonomic standards. The features include neck angle, back angle, arm angle, leg angle, shoulder height difference, and sitting duration. Data were extracted using MediaPipe Pose and are suitable for supervised learning, ergonomic risk analysis, and smart workspace applications.",
+  "creators": [
+    {
+      "name": "AONO Research and Consultant"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "ergonomics",
+    "sitting posture",
+    "machine learning",
+    "human pose",
+    "occupational health",
+    "smart workspace"
+  ],
+  "version": "1.0",
+  "language": "eng"
+}
+
