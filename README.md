@@ -23,7 +23,7 @@ Label:
 
 Access
 
-- 📦 Zenodo: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- 📦 Zenodo: [https://doi.org/10.5281/zenodo.15250540](https://doi.org/10.5281/zenodo.15250540)
 - 💾 IEEE DataPort: [https://ieee-dataport.org/documents/ergopose-deskwork](https://ieee-dataport.org/documents/ergopose-deskwork)
 
 Both versions are synchronized and contain the same dataset and metadata.
