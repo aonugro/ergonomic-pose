@@ -1,0 +1,15 @@
+Field,Value
+Title,Ergonomic Sitting Posture Dataset for Classification Using Machine Learning
+Description,"Dataset of 200 seated posture instances labeled as 'ideal' or 'non-ideal', with features extracted using MediaPipe Pose and annotated according to ISO 11226 and NIOSH guidelines."
+Number of Instances,200
+Number of Features,6
+Feature Names,"neck_angle, back_angle, arm_angle, leg_angle, shoulder_height_diff, sitting_duration"
+Target Classes,"ideal, non-ideal"
+Data Format,CSV (normalized numeric format)
+Labeling Method,Labeled by certified ergonomics professionals using ISO/NIOSH thresholds
+Pose Extraction Tool,MediaPipe Pose
+Data Collection Environment,Simulated desk-based task environment
+Primary Use Cases,"Posture classification, ergonomic monitoring, machine learning training, smart workspace systems"
+Licensing,CC BY 4.0
+Contributors,AONO Research and Consultant
+Acknowledgments,With appreciation to AONO Research and Consultant for providing support during data preparation
